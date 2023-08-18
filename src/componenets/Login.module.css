@@ -1,0 +1,42 @@
+.container{
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    box-shadow: 0 0 10px 10px rgb(173, 172, 172);
+    border-radius: 30px;
+    
+}
+.container2{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.button{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.Link{
+    text-decoration: none;
+    background-color: blue;
+    padding: 0;
+    display: block;
+    padding: 10px 0;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.maincontain{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 88vh;
+}

@@ -1,0 +1,23 @@
+.inputs{
+    display: block;
+    width: 300px;
+    margin: 20px;
+}
+.AddUser{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}
+.Form{
+    display: flex;
+    flex-direction: column;
+}
+.Form h1{
+    text-align: center;
+}
+.main{
+    display: flex;
+    height: 500px;
+    align-items: center;
+    justify-content: center;
+}

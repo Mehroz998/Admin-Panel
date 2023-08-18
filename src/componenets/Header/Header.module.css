@@ -1,0 +1,33 @@
+.header{
+    background-color: blue;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    color: white;
+    position: relative;
+}
+.header i{
+    font-size: 25px;
+    margin-left: 10px;
+    cursor: pointer;
+    position: absolute;
+    left: 0;
+    top: 20px;
+}
+
+
+.header h2{
+    display: inline-block;
+    margin: 0 auto;
+    padding: 15px;
+}
+.Loginicon{
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.Loginicon i{
+    margin-right: 10px;
+    font-size: 20px;
+    display: inline;
+}
